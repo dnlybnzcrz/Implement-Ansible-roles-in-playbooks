@@ -1,1 +1,1 @@
-hotdog # HOA5.1
+# Implement Ansible roles in playbooks
